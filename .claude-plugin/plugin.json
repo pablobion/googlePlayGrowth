@@ -1,0 +1,9 @@
+{
+  "name": "playgrowth",
+  "displayName": "GooglePlayGrowth",
+  "description": "Open-source AI-powered ASO optimization plugin for Claude Code. Optimize. Analyze. Grow.",
+  "version": "0.1.0",
+  "author": { "name": "GooglePlayGrowth contributors" },
+  "license": "MIT",
+  "keywords": ["aso", "google-play", "app-store-optimization", "android", "growth"]
+}

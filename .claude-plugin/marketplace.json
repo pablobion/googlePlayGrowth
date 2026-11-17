@@ -1,0 +1,12 @@
+{
+  "name": "googleplaygrowth",
+  "owner": { "name": "GooglePlayGrowth contributors" },
+  "description": "GooglePlayGrowth: ASO optimization for Google Play, inside Claude Code.",
+  "plugins": [
+    {
+      "name": "playgrowth",
+      "source": "./",
+      "description": "Audit, keyword research, competitor analysis and listing optimization for Google Play apps."
+    }
+  ]
+}
